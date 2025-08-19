@@ -19,7 +19,7 @@ const PROFILE = {
   phone: "+62 857-4807-7009",
   location: "Jember, Indonesia",
   socials: {
-    github: "https://github.com/yourhandle",
+    github: "https://github.com/musahabibulloh17",
     linkedin: "https://www.linkedin.com/in/musa-habibulloh-al-faruq-370565336/",
     instagram: "https://www.instagram.com/musahabibulloh_/",
   },
